@@ -10,19 +10,18 @@ import {
   css,
   reactjs,
   ibm,
-  redux,
   tailwind,
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
   carrent,
   jobit,
   sih,
   tripguide,
-  threejs,
+  next,
+  astro,
   college,
+  kali,
 } from "../assets";
 
 const navLinks = [
@@ -81,10 +80,6 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -93,24 +88,24 @@ const technologies = [
     icon: nodejs,
   },
   {
+    name: "Kali Linux",
+    icon: kali,
+  },
+  {
     name: "MongoDB",
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Next JS",
+    icon: next,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Astro JS",
+    icon: astro,
   },
 ];
 
